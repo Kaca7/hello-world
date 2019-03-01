@@ -1,2 +1,3 @@
 # hello-world
-Firs repository
+First repository
+Something about me :D
